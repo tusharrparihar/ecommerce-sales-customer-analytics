@@ -35,7 +35,6 @@ The project covers the full analytics pipeline: raw data ingestion → cleaning 
 - [ROI Summary](#-roi-summary)
 - [Project Structure](#-project-structure)
 - [How to Run](#-how-to-run)
-- [Resume Highlights](#-resume-highlights)
 
 ---
 
@@ -471,24 +470,6 @@ venv/
 .DS_Store
 Thumbs.db
 ```
-
----
-
-## 🏆 Resume Highlights
-
-> *Copy-paste ready bullet points for your CV or LinkedIn:*
-
-- Engineered an end-to-end e-commerce analytics pipeline for a 100K+ order Brazilian marketplace dataset using **Python (pandas, matplotlib, seaborn)** and **PostgreSQL**; delivered 11 SQL business queries spanning revenue, retention, logistics, and seller risk.
-
-- Identified a critical **97% customer churn rate** and isolated 10,000+ high-LTV one-time buyers using RFM segmentation and SQL cohort analysis, enabling a targeted win-back campaign projected to generate **R$225K+** in incremental GMV.
-
-- Quantified **R$1M+ annual freight cost leakage** across product categories by computing per-category net revenue and freight-to-price ratios in SQL; recommendations adopted into carrier renegotiation strategy.
-
-- Built a multi-page **Power BI executive dashboard** covering revenue trends, customer retention, seller risk scoring, and delivery SLA performance — enabling real-time operational monitoring for finance and operations stakeholders.
-
-- Detected **80+ high-risk sellers** (avg rating < 3.0, late shipment > 20%) using SQL window functions and aggregated join logic; seller performance improvement programme reduced negative review exposure by an estimated 15%.
-
-- Demonstrated that delivery delays of **15+ days cause a 2-point collapse** in customer review scores (from 4.2 to 2.2) through SQL delay-bucket analysis; finding prioritised last-mile logistics investment.
 
 ---
 
